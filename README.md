@@ -1,4 +1,4 @@
-# .NET Exploration
+# Explore .NET and C#
 
 We've explored server-side programming with JavaScript, but there are many other options out there. In this assignment, we're going to take a look at working in .NET and C#.
 
