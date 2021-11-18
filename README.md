@@ -34,9 +34,8 @@ Google is your friend for this assignment! For example, try searching for:
 - _.net getting started_
 - _.net hello world tutorial_
 
-Commit your code to a new github repo called `dotnet-hello-world`, which logs the string `"Hello World"` to your terminal.
+Make a new file `hello-world.cs` and commit your code, which logs the string `"Hello World"` to your terminal.
 
-## Code Katas
 
 Our next step is to understand the basic syntax and structure of .NET and C#, including:
 
@@ -50,13 +49,39 @@ Think of this like a super-compressed version of Tier 1, for C#!
 
 Our end goals is to be able to complete a few [code "katas"](https://en.wikipedia.org/wiki/Kata_(programming)). These are small coding exercises to help you build up skills in a language. 
 
+To get there, here is a checklist of things you can make sure you can do! Show your exploration and work in your `hello-world.cs` file.
+
+### BASE
+- [ ] Make a string
+- [ ] Make a number (what kind? There are multiple!)
+- [ ] Make a boolean
+- [ ] Make an `if/else if/else` block
+- [ ] Make a `switch` block
+- [ ] Make an array of strings
+- [ ] Make a for loop
+  - [ ] Log each item
+- [ ] Make a class (object structure)
+  - [ ] Instantiate a class (make a new object)
+- [ ] Make a method (function, in a class)
+  - [ ]  Return a value
+  - [ ]  Call from instance of class
+
+
+### STRETCH
+- [ ] Make an array of objects
+- [ ] Loop over array of objects
+- [ ] Use a `List` instead of an array
+- [ ] Use a `foreach` loop
+
+## Code Katas
+
 For this assignment you will need to complete the following katas from [codewars.com](https://www.codewars.com):
 
 - [Opposites attracts](https://www.codewars.com/kata/555086d53eac039a2a000083/train/csharp) (numbers and conditionals)
 - [You only need one](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/csharp) (lists and loops)
 - [Sum of positives](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/csharp) (lists, conditionals, numbers)
 
-You may solve these online on codewars.com, but please copy your solutions into new files in your `dotnet-hello-world` assignment. 
+You may solve these online on codewars.com, but please copy your solutions into new files in your repo. 
 
 ### STRETCH
 
