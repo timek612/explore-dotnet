@@ -34,6 +34,9 @@ Google is your friend for this assignment! For example, try searching for:
 - _.net getting started_
 - _.net hello world tutorial_
 
+
+>>NOTE: If you have M1 you will want the ARM64 installer, and if you have intel you'll want x64 installer!
+
 Make a new file `hello-world.cs` and commit your code, which logs the string `"Hello World"` to your terminal.
 
 
