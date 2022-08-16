@@ -23,7 +23,6 @@ While there are many different code editors which work well with .NET and C#, pl
 - explore basic syntax (variables, types, data structures, loops, conditionals, functions) of new language
 - solve logic problems in a new language
 
-
 ## Setup and _Hello World_
 
 You will need to install .NET and get it up and running on your computer. It is a programming convention to always start learning a new technology by creating a _Hello World_ application: this is a program that logs the string `"Hello World"` to your terminal. In other words, it's the simplest possible thing you can make, but enough to prove that you can execute code in that language.
@@ -39,7 +38,6 @@ Google is your friend for this assignment! For example, try searching for:
 
 Make a new file `hello-world.cs` and commit your code, which logs the string `"Hello World"` to your terminal.
 
-
 Our next step is to understand the basic syntax and structure of .NET and C#, including:
 
 - Variables, numbers, and data types
@@ -49,6 +47,15 @@ Our next step is to understand the basic syntax and structure of .NET and C#, in
 - Functions
 
 Think of this like a super-compressed version of Tier 1, for C#!
+
+## Starting Points
+
+Microsoft has some great places to get started with the language and runtime:
+
+- [MS Docs Hello World](https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro)
+- [MS Docs First Steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website)
+
+## The Goal
 
 Our end goals is to be able to complete a few [code "katas"](https://en.wikipedia.org/wiki/Kata_(programming)). These are small coding exercises to help you build up skills in a language. 
 
